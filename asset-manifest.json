@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FE-Basics-Lab7/static/css/main.e7497341.css",
+    "main.js": "/FE-Basics-Lab7/static/js/main.73acb016.js",
+    "static/media/dragon_fruit.jpg": "/FE-Basics-Lab7/static/media/dragon_fruit.116e65539bbbf946d928.jpg",
+    "static/media/strawberry.jpg": "/FE-Basics-Lab7/static/media/strawberry.f0c3b4d39b6efb208b02.jpg",
+    "static/media/grape.jpg": "/FE-Basics-Lab7/static/media/grape.caea1435ad6fc46edf7a.jpg",
+    "static/media/banana.jpg": "/FE-Basics-Lab7/static/media/banana.09692dd205b80db2d715.jpg",
+    "static/media/apple.jpg": "/FE-Basics-Lab7/static/media/apple.bc8cf2d8ab5d399997fe.jpg",
+    "static/media/Kiev.jpg": "/FE-Basics-Lab7/static/media/Kiev.370f7bdae1a8ea6300f4.jpg",
+    "static/media/peach.jpg": "/FE-Basics-Lab7/static/media/peach.ad2584a8296ab97f29a1.jpg",
+    "static/media/orange.jpg": "/FE-Basics-Lab7/static/media/orange.88769c4475ff6ad61cb8.jpg",
+    "static/media/Pomegranate.jpg": "/FE-Basics-Lab7/static/media/Pomegranate.d0d3e3c62c409fd48a42.jpg",
+    "static/media/img3.jpg": "/FE-Basics-Lab7/static/media/img3.254c3b4685910cca2a90.jpg",
+    "index.html": "/FE-Basics-Lab7/index.html",
+    "main.e7497341.css.map": "/FE-Basics-Lab7/static/css/main.e7497341.css.map",
+    "main.73acb016.js.map": "/FE-Basics-Lab7/static/js/main.73acb016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7497341.css",
+    "static/js/main.73acb016.js"
+  ]
+}
