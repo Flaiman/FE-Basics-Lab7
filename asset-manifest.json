@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FE-Basics-Lab7/static/css/main.e7497341.css",
-    "main.js": "/FE-Basics-Lab7/static/js/main.73acb016.js",
+    "main.js": "/FE-Basics-Lab7/static/js/main.608f02fa.js",
     "static/media/dragon_fruit.jpg": "/FE-Basics-Lab7/static/media/dragon_fruit.116e65539bbbf946d928.jpg",
     "static/media/strawberry.jpg": "/FE-Basics-Lab7/static/media/strawberry.f0c3b4d39b6efb208b02.jpg",
     "static/media/grape.jpg": "/FE-Basics-Lab7/static/media/grape.caea1435ad6fc46edf7a.jpg",
@@ -14,10 +14,10 @@
     "static/media/img3.jpg": "/FE-Basics-Lab7/static/media/img3.254c3b4685910cca2a90.jpg",
     "index.html": "/FE-Basics-Lab7/index.html",
     "main.e7497341.css.map": "/FE-Basics-Lab7/static/css/main.e7497341.css.map",
-    "main.73acb016.js.map": "/FE-Basics-Lab7/static/js/main.73acb016.js.map"
+    "main.608f02fa.js.map": "/FE-Basics-Lab7/static/js/main.608f02fa.js.map"
   },
   "entrypoints": [
     "static/css/main.e7497341.css",
-    "static/js/main.73acb016.js"
+    "static/js/main.608f02fa.js"
   ]
 }
